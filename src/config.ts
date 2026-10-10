@@ -8,7 +8,7 @@
  * - robots.txt
  */
 
-export const SITE_NAME = 'Nice Tat';
+export const SITE_NAME = 'Töne, die Freude machen';
 
 export const DESCRIPTION =
   'Astro Site Template inspired by Casey Neistat\'s ' +
