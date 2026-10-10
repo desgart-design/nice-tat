@@ -1,4 +1,4 @@
 ---
 layout: ../layouts/Layout.astro
 ---
-![alt text](../../public/01.png)
+![alt text](01.png)
